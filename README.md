@@ -1,16 +1,17 @@
-### Hi there 👋
+<a href="https://nicolas-dmg.fr/" rel="noopener noreferrer" target="_blank"><img src="https://content.nicolas-dmg.fr/Open-graph.jpg" title="Open Graph" alt="Open Graph"></a>
 
-<!--
-**dommangetnicolas/dommangetnicolas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Nicolas Dommanget-Muller • Mobile Developer 👨‍💻
 
-Here are some ideas to get you started:
+Hey 👋 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My name is Nicolas and I'm here to help you with your projects. You want to make a mobile application, need an API or need to develop a solution for your project?
+
+You need someone like me?
+
+Contact me:
+
+<a href="mailto:contact@nicolas-dmg.fr?subject=Hey! Are you available?">Email me</a>
+&nbsp;
+<a href="https://nicolas-dmg.fr/" rel="noopener noreferrer" target="_blank">Visit my website</a>
+&nbsp;
+<a href="https://www.linkedin.com/in/nicolas-dommanget-muller/" rel="noopener noreferrer" target="_blank">Connect with me</a>
